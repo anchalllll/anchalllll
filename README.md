@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Anchal Agrahari</h1>
 <h3 align="center">A passionate problem solving from India</h3>
 
-👨‍🎓 BTech in Information Technology | 4th year
-💻 Ex- Intern @ INMAS , DRDO (Ministry of Defense)
-📚 Machine Learning Enthusiast and currently learning **Data Structure and Algorithm**
-🌐 Passionate about AI, Data Science, and Computer Vision
+👨‍🎓 BTech in Information Technology | 4th year <br>
+💻 Ex- Intern @ INMAS , DRDO (Ministry of Defense) <br>
+📚 Machine Learning Enthusiast and currently learning **Data Structure and Algorithm** <br>
+🌐 Passionate about AI, Data Science, and Computer Vision <br>
 📫 How to reach me **anchalagrahri.it25@gmail.com**
-👨‍💻 All of my projects are available at [https://github.com/anchalllll](https://github.com/anchalllll)
-📄 Know about my experiences [https://drive.google.com/file/d/14sqw2EpRROlhFArqnQ6puca37IdCRnxq/view?usp=drivesdk](https://drive.google.com/file/d/14sqw2EpRROlhFArqnQ6puca37IdCRnxq/view?usp=drivesdk)
+👨‍💻 All of my projects are available at [https://github.com/anchalllll](https://github.com/anchalllll) <br>
+📄 Know about my experiences [https://drive.google.com/file/d/14sqw2EpRROlhFArqnQ6puca37IdCRnxq/view?usp=drivesdk](https://drive.google.com/file/d/14sqw2EpRROlhFArqnQ6puca37IdCRnxq/view?usp=drivesdk) <br>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
