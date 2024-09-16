@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Anchal Agrahari</h1>
-<h3 align="center">A passionate problem solving from India</h3> <br>
+<h3 align="center">A passionate problem solver from India</h3> <br>
 
 -👨‍🎓 BTech in Information Technology | 4th year <br>
 -💻 Ex- Intern @ INMAS , DRDO (Ministry of Defense) <br>
