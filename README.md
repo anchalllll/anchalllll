@@ -3,9 +3,9 @@
 
 -👨‍🎓 BTech in Information Technology <br>
 -💻 Ex- Intern @ INMAS , DRDO (Ministry of Defense) <br>
--🤖 Machine Learning Enthusiast and currently learning **Data Structure and Algorithm** <br>
--🌐 Passionate about AI, Data Science, and Computer Vision <br>
--📫 How to reach me **anchalagrahri.it25@gmail.com** <br>
+-🤖 Machine Learning and Data Structure and Algorithm Enthusiast <br>
+-🌐 Passionate about AI, ML, Data Science, and Computer Vision <br>
+-📫 How to reach me **agraancha1602@gmail.com** <br>
 -👨‍💻 All of my projects are available at [https://github.com/anchalllll](https://github.com/anchalllll) <br>
 -📄 Know about my experiences [https://drive.google.com/file/d/14sqw2EpRROlhFArqnQ6puca37IdCRnxq/view?usp=drivesdk](https://drive.google.com/file/d/14sqw2EpRROlhFArqnQ6puca37IdCRnxq/view?usp=drivesdk) <br> <br>
 
