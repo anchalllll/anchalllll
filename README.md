@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Anchal Agrahari</h1>
 <h3 align="center">A passionate problem solver from India</h3> <br>
 
--👨‍🎓 BTech in Information Technology | 4th year <br>
+-👨‍🎓 BTech in Information Technology <br>
 -💻 Ex- Intern @ INMAS , DRDO (Ministry of Defense) <br>
 -🤖 Machine Learning Enthusiast and currently learning **Data Structure and Algorithm** <br>
 -🌐 Passionate about AI, Data Science, and Computer Vision <br>
